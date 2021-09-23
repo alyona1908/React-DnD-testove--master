@@ -1,0 +1,21 @@
+* {
+  margin: 0px 0px 10px 0px;
+  padding: 0px;
+}
+body {
+  background-color: #16d47b;
+}
+
+.btn {
+  display: block;
+  margin: auto;
+}
+
+.table {
+  margin-top: 55px;
+}
+
+.react-trello-board {
+  border-radius: 3%;
+}
+
